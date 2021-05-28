@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>ShoeDis Home</title>
+    <link rel="stylesheet" href="stylesheet.css">
+</head>
+<body>
+   <body>
+	<div class="header">
+		<div class="header-logo">shoedis</div>
+		<div class="header-list">
+			<ul>
+				<li>Home</li>
+				<li>Products</li>
+				<li>Cart</li>
+        <li>Search</li>
+			</ul>
+		</div>
+	</div>
+<div class="main">
+	<div class="copy-container">
+	  <img src="https://wallpaperaccess.com/download/shoe-680070">
+    </div>
+    </div>
+    <section class="content">
+        <div class="container">
+            <div class="row">
+                <div>
+                    <h2 class="section-header">Best in Class</h2>
+                    <p>Providing the best quality shoes customization.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="content content-3">
+        <div class="container">
+            <h2 class="section-header"><br> Wide Variety</h2>
+            <p>Providing a waide variety of shoes to choose from and much more!!.</p>
+            <a
+                href="https://www.google.com/search?q=shoes+logo&rlz=1C1CHBF_enIN914IN914&sxsrf=ALeKk03ZzJXb6xu8dlxJ-JgiNfmtxENq0g:1622178224059&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiFo7rmzOvwAhXo6XMBHUHxCQIQ_AUoAXoECAEQAw&biw=1396&bih=657#imgrc=ukX4a3c-EKwkvM">
+                Check Now</p>
+        </div>
+    </section>
+
+    <footer class="footer-list">
+        <ul>
+            <li>Contact Us</li>
+            <li><br> +1(23) 456 7890</li>
+            <li><br> info@shoedis.com</li>
+        </ul>
+    </footer>
+</body>
+
+</html>
