@@ -1,0 +1,33 @@
+body {
+  font-family: "lucida calligraphy";
+}
+li {
+  list-style: none;
+}
+
+.header {
+  background-color:red;
+  color: #fff;
+  height: 90px;
+  width:1920px;
+}
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+}
+
+.header-list li {
+  float: left;
+  padding:33px 20px;
+}
+.section-header {
+  font-size:40px;
+}
+.footer-list {
+  background-color: red;
+  color: #fff;
+  height: 100px;
+  width: 1850px;
+  padding: 40px;
+}
